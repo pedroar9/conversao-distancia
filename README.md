@@ -20,14 +20,14 @@ Ele serve como exemplo para a **criação de um ambiente containerizado** usando
 ---
 
 ## 📂 Estrutura do Projeto
-
+```sh
 /conversao-distancia
 │── templates                # Layout web da página
 │── app.py                   # Arquivo principal da API Flask
 │── requirements.txt         # Dependências do projeto
 │── Dockerfile               # Arquivo para criação da imagem Docker
 │── README.md                # Documentação do projeto
-
+```
 ---
 
 ## 📦 Como Executar o Projeto
