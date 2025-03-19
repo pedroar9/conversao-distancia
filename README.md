@@ -39,11 +39,6 @@ git clone https://github.com/pedroar9/conversao-distancia.git
 cd conversao-distancia
 ```
 
-
-
-
-
-
 ### 🔹 Construir a Imagem Docker
 
 ```sh
