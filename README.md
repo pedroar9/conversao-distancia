@@ -26,6 +26,7 @@ Ele serve como exemplo para a **criação de um ambiente containerizado** usando
 │── app.py                   # Arquivo principal da API Flask
 │── requirements.txt         # Dependências do projeto
 │── Dockerfile               # Arquivo para criação da imagem Docker
+│── dockerhub.md             # Arquivo com link da imagem Docker disponível no DockerHub
 │── README.md                # Documentação do projeto
 ```
 ---
@@ -51,7 +52,7 @@ docker build -t conversao-distancia .
 docker run -p 5000:5000 conversao-distancia
 ```
 
-A aplicação estará rodando em:
+## A aplicação estará rodando em:
 
 📍 [**http://localhost:5000**](http://localhost:5000/)
 
