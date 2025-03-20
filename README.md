@@ -72,7 +72,7 @@ A imagem do projeto está disponível no DockerHub e pode ser baixada diretament
 docker container run pedroar9/conversao-distancia-desafio:v1
 ```
 
-🔗 **Link da imagem:** [DockerHub - pedroar9/conversao-distancia-desafio](https://hub.docker.com/repository/docker/pedroar9/conversao-distancia-desafio/)
+🔗 **Link da imagem:** [DockerHub - pedroar9/conversao-distancia-desafio](https://hub.docker.com/r/pedroar9/conversao-distancia-desafio/tags)
 
 ---
 
